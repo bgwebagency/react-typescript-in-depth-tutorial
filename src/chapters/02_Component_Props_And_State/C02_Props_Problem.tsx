@@ -1,6 +1,6 @@
 // Chapter 02: Add Proper Types to Props
 
-const Child = (props: Props) => {
+const Child = (props) => {
   const { color } = props
   return <div>{color}</div>
 }
