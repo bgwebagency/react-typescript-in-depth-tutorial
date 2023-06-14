@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1><a href="https://github.com/bgwebagency/react-typescript-in-depth-tutorial">React, TypeScript in Depth</a></h1>
+  <h1><a href="https://youtube.com/playlist?list=PLfWvlHR69RlbR118fKZbPh-q-L41OnMKF">React, TypeScript in Depth</a></h1>
 
 Learn How to use TypeScript with React in Depth.
 Complete course for free on YouTube!</span>
