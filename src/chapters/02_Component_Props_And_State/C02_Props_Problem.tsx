@@ -1,12 +1,12 @@
 // Chapter 02: Add Proper Types to Props
 
-const Child = (props) => {
+const ComponentB = (props) => {
   const { color } = props
-  return <div>{color}</div>
+  return <div style={{ color: color }}>Color of this text is: {color}</div>
 }
 
-const C02_Props_Problem = () => {
-  return <Child color="red" />
+const ComponentA = () => {
+  return <ComponentB color="red" />
 }
 
-export default C02_Props_Problem
+export default ComponentA
