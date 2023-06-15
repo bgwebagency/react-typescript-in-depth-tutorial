@@ -5,8 +5,8 @@ type Props = {
 }
 
 const ComponentB = (props: Props) => {
-  const { color } = props
-  return <div style={{ color: color }}></div>
+  const { color, children } = props
+  return <div style={{ color: color }}>{children}</div>
 }
 
 const ComponentA = () => {

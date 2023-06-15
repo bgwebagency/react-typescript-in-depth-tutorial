@@ -6,8 +6,8 @@ type Props = {
 }
 
 const ComponentB: React.FC<Props> = (props) => {
-  const { color } = props
-  return <div style={{ color: color }}></div>
+  const { color, children } = props
+  return <div style={{ color: color }}>{children}</div>
 }
 
 const ComponentA = () => {
