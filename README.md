@@ -2,7 +2,7 @@
   
   <h1><a href="https://youtube.com/playlist?list=PLfWvlHR69RlbR118fKZbPh-q-L41OnMKF">React, TypeScript in Depth</a></h1>
 
-Learn How to use TypeScript with React in Depth.
+Learn How to use TypeScript in React Apps like a PRO!
 Complete course for free on YouTube!</span>
 
 Feel free to reach us on our social platforms! 😊 <br />
